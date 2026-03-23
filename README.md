@@ -14,6 +14,7 @@ It's built for Solana with cross-provider benchmarking.
 | [Blockworks Research](https://blockworksresearch.com) | Yes | Planned |
 | [DefiLlama](https://defillama.com) | Yes | Planned |
 | [Dune](https://dune.com) | Yes | Planned |
+
 Want to add a provider? See [Adding a New Provider](#adding-a-new-provider).
 
 ## Suported KPIs
